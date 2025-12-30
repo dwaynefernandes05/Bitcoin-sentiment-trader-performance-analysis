@@ -23,6 +23,8 @@ Provides daily market sentiment indicators.
 - `classification` (Fear / Greed)
 - `date`
 
+[Fear & Greed Index](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+
 ---
 
 ### 2. Historical Trader Data (Hyperliquid)
@@ -40,6 +42,8 @@ Contains detailed trade-level information for individual traders.
 - `Fee`
 - `Timestamp`
 - `Trade ID`
+
+[Historical Data](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 
 ---
 
